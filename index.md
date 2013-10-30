@@ -22,5 +22,4 @@ permalink: {{ site.permalink }}
 
   ga('create', 'UA-45000603-2', 'mk001jp.github.io');
   ga('send', 'pageview');
-
 </script>
