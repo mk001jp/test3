@@ -12,4 +12,4 @@ permalink: {{ site.permalink }}
 
 {{ site }}
 
-**Copyright © {{ site.author.name }} 2012 All rights reserved. Please contact to {{ site.author.email }}.**
+**Copyright © {{ site.author.name }} 2013 All rights reserved. Please contact to {{ site.author.email }}.**
