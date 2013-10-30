@@ -3,9 +3,6 @@ lsi: false
 pygments: true
 source: .
 
-permalink: /:categories/:year-:month-:day/:title
 author:
   name: mk001jp
   email: mk001jp@sample.com
-
-markdown: rdiscount
